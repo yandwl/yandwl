@@ -7,7 +7,7 @@ Computer Science student.
 
 Web programming,
 Mobile programming,
-Game addons
+Game addons,
 Mobile & web design
 
 Fast learner
