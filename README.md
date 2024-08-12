@@ -1,17 +1,17 @@
-## He my name's Yanis, but you can call me Yan 🗿.
+## My name is Yanis.
 
-Creation is my passion, because through programming, designing, thinking and managing, I create new things, following my very own nature and dreams.
+Passionate programmer, designer and longlife learner. 
+Computer Science student.
 
-### Skills & tools
-I have no time to find pretty icons right now 🥱.
+### Skills
 
-Debian + gnome desktop environment. Visual studio code, the jetbrain suite, penpot, HTTPie.
+Web programming,
+Mobile programming,
+Game addons
+Mobile & web design
 
-HTML, CSS, SCSS, JS, TS, C, Java, Dart, Python, Go.
-
-Docker, NuxtJS (with nitro), nodeJS, Flutter, String, MongoDB, MariaDB, PostgreSQL, SQLite, PyTorch, ...
-
-
+Fast learner
+Great Listener
 
 
 ### Language levels
